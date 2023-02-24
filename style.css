@@ -1,0 +1,39 @@
+body{
+    background-color: palegreen;
+}
+
+.text-right{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+.border{
+    background-color:whitesmoke;
+    border: 5px solid yellow;
+}
+.text-right1{
+    text-align: center;
+    /* text-decoration-color: aliceblue; */
+}
+.google-aline{
+    text-align: center;
+    font-weight: 100;
+}
+.G{
+    color: dodgerblue;
+}
+.o{
+    color: tomato;
+}
+.l{
+    color: green;
+}
+.o2{
+    color: aliceblue;
+}
+.input-aline{
+    text-align: center;
+}
+.ancortag-aline{
+    text-align: center;
+}
